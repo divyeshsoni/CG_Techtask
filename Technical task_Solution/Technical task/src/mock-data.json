@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "title": "Incredibles",
+    "genre": "Thriller",
+    "music": "Baroque",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 2,
+    "title": "Harry Potter and The Chamber Of Secrets",
+    "genre": "Drama",
+    "music": "Country",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 3,
+    "title": "Limitless",
+    "genre": "Romance",
+    "music": "Pop",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 4,
+    "title": "Transformers",
+    "genre": "Sci-Fi",
+    "music": "Latin",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 5,
+    "title": "Romeo and Juliet",
+    "genre": "Horror",
+    "music": "Reggae",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 6,
+    "title": "Ice Age 1",
+    "genre": "Thriller",
+    "music": "Hard Rock",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 7,
+    "title": "Romeo and Juliet",
+    "genre": "Biography",
+    "music": "Latin",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 8,
+    "title": "Wonder Woman",
+    "genre": "Musical",
+    "music": "Pop",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 9,
+    "title": "Wonder Woman",
+    "genre": "Thriller",
+    "music": "Baroque",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 10,
+    "title": "Friends With Kids",
+    "genre": "Musical",
+    "music": "Pop",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 11,
+    "title": "Wonder Woman",
+    "genre": "Action",
+    "music": "Opera",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 12,
+    "title": "The Conjuring",
+    "genre": "Comedy",
+    "music": "Soul",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 13,
+    "title": "Shutter Island",
+    "genre": "Musical",
+    "music": "Hip-Hop",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 14,
+    "title": "Rambo III",
+    "genre": "Thriller",
+    "music": "Blues",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 15,
+    "title": "The Ring",
+    "genre": "Crime",
+    "music": "House",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 16,
+    "title": "Limitless",
+    "genre": "Action",
+    "music": "Blues",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 17,
+    "title": "Mr. Bean's Holiday",
+    "genre": "Sci-Fi",
+    "music": "Opera",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 18,
+    "title": "Rambo II",
+    "genre": "Biography",
+    "music": "Latin",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 19,
+    "title": "Interstellar",
+    "genre": "Thriller",
+    "music": "Hard Rock",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 20,
+    "title": "Inside Out",
+    "genre": "Action",
+    "music": "Hard Rock",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 21,
+    "title": "Transformers",
+    "genre": "Adventure",
+    "music": "Soul",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 22,
+    "title": "Casablanca",
+    "genre": "Thriller",
+    "music": "Latin",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 23,
+    "title": "Zootropolis",
+    "genre": "Crime",
+    "music": "Soul",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 24,
+    "title": "The Notebook",
+    "genre": "Sci-Fi",
+    "music": "Hard Rock",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 25,
+    "title": "Fantastic Beasts and Where To Find Them",
+    "genre": "Fantasy",
+    "music": "Opera",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 26,
+    "title": "Thor : Ragnarok",
+    "genre": "Adventure",
+    "music": "House",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 27,
+    "title": "Terminator 2",
+    "genre": "Animation",
+    "music": "Jazz",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 28,
+    "title": "Shutter Island",
+    "genre": "Fantasy",
+    "music": "Soul",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 29,
+    "title": "Inside Out",
+    "genre": "Romance",
+    "music": "Baroque",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 30,
+    "title": "Batman Begins",
+    "genre": "Crime",
+    "music": "Reggae",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 31,
+    "title": "The Dark Tower",
+    "genre": "Musical",
+    "music": "Jazz",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 32,
+    "title": "Seven",
+    "genre": "Fantasy",
+    "music": "Reggae",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 33,
+    "title": "Blood Diamond",
+    "genre": "Romance",
+    "music": "Baroque",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 34,
+    "title": "The Wolf Of Wallstreet",
+    "genre": "Family",
+    "music": "Opera",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 35,
+    "title": "Rambo III",
+    "genre": "Family",
+    "music": "Country",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 36,
+    "title": "Snatch",
+    "genre": "Biography",
+    "music": "Baroque",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 37,
+    "title": "The Notebook",
+    "genre": "Drama",
+    "music": "House",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 38,
+    "title": "Shutter Island",
+    "genre": "Biography",
+    "music": "Pop",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 39,
+    "title": "Rambo III",
+    "genre": "Action",
+    "music": "Blues",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 40,
+    "title": "Brimstone",
+    "genre": "Animation",
+    "music": "Drum & Bass",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 41,
+    "title": "The Conjuring",
+    "genre": "Drama",
+    "music": "Country",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 42,
+    "title": "Blood Diamond",
+    "genre": "Fantasy",
+    "music": "Techno",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 43,
+    "title": "Fantastic Beasts and Where To Find Them",
+    "genre": "Comedy",
+    "music": "Hard Rock",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 44,
+    "title": "SING",
+    "genre": "Crime",
+    "music": "Pop",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 45,
+    "title": "Avengers Infinity War",
+    "genre": "Family",
+    "music": "Soul",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 46,
+    "title": "Transformers",
+    "genre": "Comedy",
+    "music": "House",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 47,
+    "title": "The Notebook",
+    "genre": "Horror",
+    "music": "Latin",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 48,
+    "title": "The Martian",
+    "genre": "Biography",
+    "music": "Soul",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 49,
+    "title": "Star Wars",
+    "genre": "Family",
+    "music": "Opera",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 50,
+    "title": "Alien",
+    "genre": "Comedy",
+    "music": "Dubstep",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 51,
+    "title": "Batman Begins",
+    "genre": "Drama",
+    "music": "Techno",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 52,
+    "title": "Romeo and Juliet",
+    "genre": "History",
+    "music": "Techno",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 53,
+    "title": "Avengers Infinity War",
+    "genre": "Adventure",
+    "music": "Jazz",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 54,
+    "title": "Avengers Infinity War",
+    "genre": "Thriller",
+    "music": "Latin",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 55,
+    "title": "The Dark Knight",
+    "genre": "Action",
+    "music": "Drum & Bass",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 56,
+    "title": "Love",
+    "genre": "Thriller",
+    "music": "Blues",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 57,
+    "title": "Mr. Bean's Holiday",
+    "genre": "Fantasy",
+    "music": "Blues",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 58,
+    "title": "The Dark Knight",
+    "genre": "Animation",
+    "music": "Reggae",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 59,
+    "title": "SING",
+    "genre": "Animation",
+    "music": "Dubstep",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 60,
+    "title": "Shrek",
+    "genre": "Thriller",
+    "music": "House",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 61,
+    "title": "The Godfather",
+    "genre": "Sci-Fi",
+    "music": "Hard Rock",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 62,
+    "title": "The Conjuring",
+    "genre": "Romance",
+    "music": "Soul",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 63,
+    "title": "Alien",
+    "genre": "Thriller",
+    "music": "Pop",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 64,
+    "title": "Chronicles of Narnia",
+    "genre": "Biography",
+    "music": "Dubstep",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 65,
+    "title": "Snatch",
+    "genre": "Horror",
+    "music": "Blues",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 66,
+    "title": "Pretty Woman",
+    "genre": "Animation",
+    "music": "Reggae",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 67,
+    "title": "Fantastic Beasts and Where To Find Them",
+    "genre": "Adventure",
+    "music": "Dubstep",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 68,
+    "title": "Avatar",
+    "genre": "Thriller",
+    "music": "Techno",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 69,
+    "title": "The Notebook",
+    "genre": "Biography",
+    "music": "Country",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 70,
+    "title": "Chronicles of Narnia",
+    "genre": "Horror",
+    "music": "House",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 71,
+    "title": "Terminator 2",
+    "genre": "Thriller",
+    "music": "Jazz",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 72,
+    "title": "Friends With Kids",
+    "genre": "History",
+    "music": "Baroque",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 73,
+    "title": "Harry Potter and The Chamber Of Secrets",
+    "genre": "Thriller",
+    "music": "Dubstep",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 74,
+    "title": "Finding Dory",
+    "genre": "Action",
+    "music": "Country",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 75,
+    "title": "Shutter Island",
+    "genre": "Drama",
+    "music": "Reggae",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 76,
+    "title": "Batman Begins",
+    "genre": "Musical",
+    "music": "Reggae",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 77,
+    "title": "Ice Age 1",
+    "genre": "Thriller",
+    "music": "Hard Rock",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 78,
+    "title": "Transformers",
+    "genre": "Horror",
+    "music": "Reggae",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 79,
+    "title": "Alien",
+    "genre": "Animation",
+    "music": "Reggae",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 80,
+    "title": "Avatar",
+    "genre": "Family",
+    "music": "Latin",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 81,
+    "title": "Zootropolis",
+    "genre": "Sci-Fi",
+    "music": "Pop",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 82,
+    "title": "Rambo I",
+    "genre": "Drama",
+    "music": "Opera",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 83,
+    "title": "Finding Dory",
+    "genre": "Fantasy",
+    "music": "Techno",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 84,
+    "title": "Chronicles of Narnia",
+    "genre": "Family",
+    "music": "Pop",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 85,
+    "title": "Alien",
+    "genre": "Action",
+    "music": "Opera",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 86,
+    "title": "Avengers Infinity War",
+    "genre": "Family",
+    "music": "Country",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 87,
+    "title": "Octav",
+    "genre": "Drama",
+    "music": "Opera",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 88,
+    "title": "The Dark Knight",
+    "genre": "Family",
+    "music": "Blues",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 89,
+    "title": "Thor : Ragnarok",
+    "genre": "History",
+    "music": "Pop",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 90,
+    "title": "Friends With Kids",
+    "genre": "Family",
+    "music": "House",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 91,
+    "title": "Batman Begins",
+    "genre": "History",
+    "music": "Opera",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 92,
+    "title": "The Conjuring",
+    "genre": "Horror",
+    "music": "Blues",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 93,
+    "title": "Black Panther",
+    "genre": "Crime",
+    "music": "Hard Rock",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 94,
+    "title": "Titanic",
+    "genre": "Sci-Fi",
+    "music": "Latin",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 95,
+    "title": "The Ring",
+    "genre": "Thriller",
+    "music": "Techno",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 96,
+    "title": "American Pie",
+    "genre": "Sci-Fi",
+    "music": "Soul",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 97,
+    "title": "Wonder Woman",
+    "genre": "Horror",
+    "music": "Soul",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 98,
+    "title": "Batman Begins",
+    "genre": "Action",
+    "music": "Opera",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 99,
+    "title": "Zootropolis",
+    "genre": "Adventure",
+    "music": "Jazz",
+    "image_src": "https://placeimg.com/640/480/arch"
+  },
+  {
+    "id": 100,
+    "title": "Thor : Ragnarok",
+    "genre": "History",
+    "music": "Soul",
+    "image_src": "https://placeimg.com/640/480/arch"
+  }
+]

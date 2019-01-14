@@ -1,0 +1,94 @@
+@import url(https://fonts.googleapis.com/css?family=Rubik\+Mono\+One);
+@import url(https://fonts.googleapis.com/css?family=Rubik);
+
+
+body{
+  background-color: #87ceeb
+}
+  
+#root{
+  margin: 0 7%;
+}
+  
+h1{
+  font-family: 'Rubik Mono One', serif;
+  text-align: center;
+  font-size: 40px;
+  color: #3C3B6E;
+  padding: 40px 0 0;
+}
+  
+h2{
+  font-family: 'Rubik Mono One', serif;
+  font-size: 20px;
+  text-align:center;
+  color: #B22234;
+  margin: 20px;
+}
+  
+/*
+* Movie poster card asthetics
+*/
+.poster-card{
+  max-height: 400px;
+  max-width: 400px;
+  display:inline-block;
+}  
+  figure
+    
+    img{
+      height: auto;
+      width:auto;
+      max-width:300px;
+      max-height:300px;
+    }
+  
+    article{
+      background:#fff;
+    }
+      ul{
+        text-align:center;
+        list-style:none;
+        padding:0;
+      }
+        li{
+          color:#000;
+          font-family:body-font;
+          padding:5px;  
+        }
+
+.sort-section{
+  font-size: 20px;
+  margin: 15px 0 0 0;
+  font-weight: 500;
+}
+
+.sort-section > div{
+  font-size: 25px;
+}
+
+  .pill{
+    border-radius: 5px;
+    background-color: #B22234;
+    max-width: 100px;
+    text-align: center;
+    color: #fff;
+    padding: 1px 10px;
+    display: inline-block;
+    cursor: pointer;
+    font-size: 15px;
+    position: relative;
+    bottom: 3px;
+    left: 20px;
+  }
+
+  input {
+    height: 30px;
+    margin-top: 20px;
+    width: 300px;
+    font-size: 20px;
+  }
+
+  .movieTitle{
+    font-weight:600;
+  }
